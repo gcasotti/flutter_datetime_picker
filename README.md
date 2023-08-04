@@ -1,3 +1,5 @@
+fast fix for new flutter versions
+
 # Flutter Datetime Picker
 
 [(Pub) flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)
